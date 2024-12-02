@@ -1,0 +1,122 @@
+[
+  {
+    "isHit": true,
+    "discount": 25,
+    "image": "/assets/images/product.svg",
+    "brand": "Бренд",
+    "title": "Полное название товара в несколько строк для вида с обрывом в конце...",
+    "currentPrice": "5 990",
+    "totalPrice": "5 990",
+    "isAvailable": true
+  },
+  {
+    "isHit": true,
+    "discount": 25,
+    "image": "/assets/images/product.svg",
+    "brand": "Бренд",
+    "title": "Полное название товара в несколько строк для вида с обрывом в конце...",
+    "currentPrice": "5 990",
+    "totalPrice": "5 990",
+    "isAvailable": true
+  },
+  {
+    "isHit": true,
+    "discount": 25,
+    "image": "/assets/images/product.svg",
+    "brand": "Бренд",
+    "title": "Полное название товара в несколько строк для вида с обрывом в конце...",
+    "currentPrice": "5 990",
+    "totalPrice": "5 990",
+    "isAvailable": false
+  },
+  {
+    "isHit": true,
+    "discount": 25,
+    "image": "/assets/images/product.svg",
+    "brand": "Бренд",
+    "title": "Полное название товара в несколько строк для вида с обрывом в конце...",
+    "currentPrice": "5 990",
+    "totalPrice": "5 990",
+    "isAvailable": true
+  },
+  {
+    "isHit": true,
+    "discount": 25,
+    "image": "/assets/images/product.svg",
+    "brand": "Бренд",
+    "title": "Полное название товара в несколько строк для вида с обрывом в конце...",
+    "currentPrice": "5 990",
+    "totalPrice": "5 990",
+    "isAvailable": true
+  },
+  {
+    "isHit": true,
+    "discount": 25,
+    "image": "/assets/images/product.svg",
+    "brand": "Бренд",
+    "title": "Полное название товара в несколько строк для вида с обрывом в конце...",
+    "currentPrice": "5 990",
+    "totalPrice": "5 990",
+    "isAvailable": true
+  },
+  {
+    "isHit": true,
+    "discount": 25,
+    "image": "/assets/images/product.svg",
+    "brand": "Бренд",
+    "title": "Полное название товара в несколько строк для вида с обрывом в конце...",
+    "currentPrice": "5 990",
+    "totalPrice": "5 990",
+    "isAvailable": true
+  },
+  {
+    "isHit": true,
+    "discount": 25,
+    "image": "/assets/images/product.svg",
+    "brand": "Бренд",
+    "title": "Полное название товара в несколько строк для вида с обрывом в конце...",
+    "currentPrice": "5 990",
+    "totalPrice": "5 990",
+    "isAvailable": true
+  },
+  {
+    "isHit": true,
+    "discount": 25,
+    "image": "/assets/images/product.svg",
+    "brand": "Бренд",
+    "title": "Полное название товара в несколько строк для вида с обрывом в конце...",
+    "currentPrice": "5 990",
+    "totalPrice": "5 990",
+    "isAvailable": true
+  },
+  {
+    "isHit": true,
+    "discount": 25,
+    "image": "/assets/images/product.svg",
+    "brand": "Бренд",
+    "title": "Полное название товара в несколько строк для вида с обрывом в конце...",
+    "currentPrice": "5 990",
+    "totalPrice": "5 990",
+    "isAvailable": true
+  },
+  {
+    "isHit": true,
+    "discount": 25,
+    "image": "/assets/images/product.svg",
+    "brand": "Бренд",
+    "title": "Полное название товара в несколько строк для вида с обрывом в конце...",
+    "currentPrice": "5 990",
+    "totalPrice": "5 990",
+    "isAvailable": true
+  },
+  {
+    "isHit": true,
+    "discount": 25,
+    "image": "/assets/images/product.svg",
+    "brand": "Бренд",
+    "title": "Полное название товара в несколько строк для вида с обрывом в конце...",
+    "currentPrice": "5 990",
+    "totalPrice": "5 990",
+    "isAvailable": true
+  }
+]

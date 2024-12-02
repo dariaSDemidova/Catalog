@@ -1,0 +1,29 @@
+@import './variables';
+
+@mixin text-styles($font-size, $font-weight, $line-height, $color) {
+    font-size: $font-size;
+    font-weight: $font-weight;
+    line-height: $line-height;
+    color: $color;
+}
+
+@mixin title {
+    color: $dark-gray;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+}
+
+@mixin main-text {
+    color: $dark-gray;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+}
+
+@mixin paragraph {
+    color: $light-gray;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 14px;
+}
